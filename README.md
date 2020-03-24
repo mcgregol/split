@@ -12,6 +12,6 @@ sudo bash split.sh
 
 # Usage
 
-sudo bash split.sh **current_interface** **new_interface_name**
+sudo bash split.sh "current_interface" "new_interface_name"
 
 ex. sudo bash split.sh wlan0 wlan1
