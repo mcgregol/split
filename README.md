@@ -6,12 +6,10 @@ git clone https://github.com/mcgregol/split
 
 cd split
 
-chmod +x split.sh
-
-sudo bash split.sh
+chmod +x split
 
 # Usage
 
-sudo bash split.sh "current_interface" "new_interface_name"
+sudo bash split "current_interface" "new_interface_name"
 
-ex. sudo bash split.sh wlan0 wlan1
+ex. sudo bash split wlan0 wlan1
