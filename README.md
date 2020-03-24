@@ -6,4 +6,6 @@ git clone https://github.com/mcgregol/split
 
 cd split
 
+chmod +x split.sh
+
 sudo bash split.sh
