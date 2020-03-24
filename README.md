@@ -9,3 +9,9 @@ cd split
 chmod +x split.sh
 
 sudo bash split.sh
+
+# Usage
+
+sudo bash split.sh *current interface* *new interface name*
+
+ex. sudo bash split.sh wlan0 wlan1
