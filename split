@@ -18,7 +18,11 @@ sudo iw $2 del
 
 clear
 
-echo "Success!"
+echo "Nice! It worked."
+
+echo
+
+echo
 
 echo
 
