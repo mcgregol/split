@@ -11,7 +11,9 @@ Used to split my Alfa AWUS036NHA to run a managed interface and a monitor interf
 
     cd split
 
-    chmod +x split
+    chmod +x install
+    
+    sudo bash install
 
 # Usage
 
