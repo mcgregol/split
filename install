@@ -1,0 +1,13 @@
+#! /bin/bash
+
+echo "Beginning install!"
+
+sleep 3
+
+sudo chmod +x split
+
+sudo mv /home/user/Desktop/split/split /bin
+
+clear
+
+echo "Done!"
