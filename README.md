@@ -1,5 +1,5 @@
 # split
-Used to split my Alfa AWUS036NHA to run a managed interface and a monitor interface simultaneously.
+Used to split my Alfa AWUS036NHA USB wireless adapter to run a managed interface and a monitor interface simultaneously.
 
 # Dependencies
 - A compatible wireless adapter(see 'Troubleshooting')
