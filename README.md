@@ -2,9 +2,11 @@
 Used to split my Alfa AWUS036NHA USB wireless adapter to run a managed interface and a monitor interface simultaneously.
 
 # Dependencies
-- A compatible wireless adapter(see 'Troubleshooting')
+- A compatible wireless adapter
+   see 'Troubleshooting'
    
-- Airmon-ng(sudo apt install aircrack-ng)
+- Airmon-ng
+   sudo apt install aircrack-ng
 
 # Installation
     git clone https://github.com/mcgregol/split
