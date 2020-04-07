@@ -4,6 +4,8 @@ echo "Beginning install!"
 
 sleep 3
 
+clear
+
 sudo chmod +x split
 
 sudo mv split /bin
