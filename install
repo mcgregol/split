@@ -6,6 +6,6 @@ sleep 3
 
 sudo chmod +x split
 
-sudo mv /home/user/Desktop/split/split /bin
+sudo mv /home/kali/Desktop /bin
 
 echo "Done!"
