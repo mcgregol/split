@@ -8,4 +8,8 @@ sudo chmod +x split
 
 sudo mv /home/kali/Desktop/split/split /bin
 
+cd ..
+
+sudo rm -r split
+
 echo "Done!  You can now execute split from anywhere."
