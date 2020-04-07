@@ -6,6 +6,6 @@ sleep 3
 
 sudo chmod +x split
 
-sudo mv /home/kali/Desktop /bin
+sudo mv /home/kali/Desktop/split/split /bin
 
-echo "Done!"
+echo "Done!  You can now execute split from anywhere."
