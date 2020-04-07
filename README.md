@@ -13,8 +13,6 @@ Used to split my Alfa AWUS036NHA USB wireless adapter to run a managed interface
     git clone https://github.com/mcgregol/split
 
     cd split
-
-    chmod +x install
     
     sudo bash install
 
