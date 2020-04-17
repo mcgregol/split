@@ -6,7 +6,7 @@ if [[ -z $1 ]]; then
 fi
 
 if [[ -z $2 ]]; then
-        printf "Enter extra  wireless interface!\n"
+        printf "Enter extra  wireless interface, or other interface that you wish to add.\n"
         exit 1
 fi
 
