@@ -3,11 +3,11 @@ Used to split my Alfa AWUS036NHA USB wireless adapter to run a managed interface
 
 # Dependencies
 - A compatible wireless adapter
-    - see 'Troubleshooting'
+   - see 'Troubleshooting'
    
 - Airmon-ng
 
-    - sudo apt install aircrack-ng
+   - sudo apt install aircrack-ng
 
 # Installation
     git clone https://github.com/mcgregol/split
@@ -16,7 +16,7 @@ Used to split my Alfa AWUS036NHA USB wireless adapter to run a managed interface
     
     sudo bash install
 
-# Usage
+# Usage#! /bin/bash
 
     sudo bash split "current_interface" "new_interface_name" 
 
