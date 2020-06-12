@@ -15,3 +15,5 @@ cd ..
 sudo rm -r split
 
 echo "Done!  You can now execute split from anywhere."
+
+cd ..
