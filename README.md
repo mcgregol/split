@@ -16,7 +16,7 @@ Used to split my Alfa AWUS036NHA USB wireless adapter to run a managed interface
     
     sudo bash install
 
-# Usage#! /bin/bash
+# Usage#!
 
     sudo bash split "current_interface" "new_interface_name" 
 
